@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FFA">
+    <output-path>E:/Minecraft/- Server -/Server 1.8.8/plugins</output-path>
+    <root id="archive" name="FFA.jar">
+      <element id="module-output" name="FFA" />
+      <element id="library" level="project" name="Maven: fr.minuskube:netherboard-bukkit:1.1.3" />
+      <element id="library" level="project" name="Maven: fr.minuskube:netherboard-core:1.1.3" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.7.25" />
+    </root>
+  </artifact>
+</component>

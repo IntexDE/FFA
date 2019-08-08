@@ -1,0 +1,7 @@
+main: de.intexde.ffa.main.Main
+name: FFA
+version: "1.0"
+author: IntexDE
+
+commands:
+    map:
